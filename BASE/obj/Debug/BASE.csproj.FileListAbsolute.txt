@@ -1,0 +1,12 @@
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\BASE\bin\Debug\BASE.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\BASE\bin\Debug\BASE.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\BASE\obj\Debug\BASE.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\BASE\obj\Debug\BASE.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\BASE\obj\Debug\BASE.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\BASE\obj\Debug\BASE.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\BASE\bin\Debug\BASE.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\BASE\bin\Debug\BASE.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\BASE\obj\Debug\BASE.csproj.AssemblyReference.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\BASE\obj\Debug\BASE.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\BASE\obj\Debug\BASE.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\BASE\obj\Debug\BASE.pdb

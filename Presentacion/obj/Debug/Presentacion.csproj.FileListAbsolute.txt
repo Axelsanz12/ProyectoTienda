@@ -1,0 +1,32 @@
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\BASE.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\BASE.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Presentacion\obj\Debug\Presentacion.AltaArticulo.resources
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\BASE.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\BASE.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.AltaArticulo.resources
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,18 @@
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\bin\Debug\Negocio.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\bin\Debug\BASE.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\bin\Debug\BASE.pdb
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\obj\Debug\Negocio.dll
+C:\Users\Axel\source\repos\TPFinalNivel2_AxelSanz\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\bin\Debug\Negocio.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\bin\Debug\BASE.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\bin\Debug\BASE.pdb
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\obj\Debug\Negocio.dll
+C:\Users\Axel\Downloads\TPFinalNivel2_Axelsanz (1)\Negocio\obj\Debug\Negocio.pdb
